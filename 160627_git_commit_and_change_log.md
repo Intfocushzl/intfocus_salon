@@ -23,6 +23,7 @@
     - docs：文档（documentation） 
     - style： 格式（不影响代码运行的变动） 
     - refactor：重构（即不是新增功能，也不是修改 bug 的代码变动） 
+    - perf: 性能改善（A code change that improves performance）
     - test：增加测试 
     - chore：构建过程或辅助工具的变动 
 
