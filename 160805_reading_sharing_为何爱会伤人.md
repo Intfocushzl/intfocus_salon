@@ -31,5 +31,12 @@
 
 ## 音频记录
 
-- 音频记录: 《![《为何爱会伤人》读书分享会](audio_records/《为何爱会伤人》读书分享会-2016-08-05-17-00-03.mp3)》
+- 音频记录(上): 《![《为何爱会伤人》读书分享会](audio_records/《为何爱会伤人》读书分享会-2016-08-05-17-00-03-part1.mov)》
+- 音频记录（下）: 《![《为何爱会伤人》读书分享会](audio_records/《为何爱会伤人》读书分享会-2016-08-05-17-00-03-part2.mov)》
+
+```
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.
+remote: warning: See http://git.io/iEPt8g for more information.
+remote: warning: File audio_records/《为何爱会伤人》读书分享会-2016-08-05-17-00-03.mp3 is 75.41 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB
+```
 
