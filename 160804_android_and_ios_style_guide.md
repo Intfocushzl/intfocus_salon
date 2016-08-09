@@ -15,5 +15,5 @@
 
 - 《[ios - 编程规范](https://github.com/intfocus-company/intfocus_style/blob/master/objective-c-style-guide.md)》
 - 《[android - 编程规范](https://github.com/intfocus-company/intfocus_style/blob/master/android-style-guide.md)》
-- 音频记录: ![技术沙龙讨论 android & ios 编程规范](audio_records/技术沙龙讨论android&ios编程规范-2016-08-04-15-41-52.mp3)
+- 音频记录: [百度云: 技术沙龙讨论 android & ios 编程规范](https://pan.baidu.com/s/1jH7XBeu)
 
