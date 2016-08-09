@@ -29,4 +29,4 @@ _说明: 规范链接中表格及之后的样式暂不在本次讨论范围内_
 ## 结论
 
 - 中文版规范: 《[markdown 写作规范格指南](https://github.com/intfocus-company/intfocus_style/blob/master/markdown-style-guide.zh-CN.md)》
-- 音频链接: [markdown 写作规范讨论](sound_records/2016-07-25-17-23-20.mp3)
+- 音频记录: ![markdown 写作规范讨论](audio_records/2016-07-25-17-23-20.mp3)
